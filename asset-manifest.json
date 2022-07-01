@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/meeting-room/static/css/main.62939586.chunk.css",
+    "main.js": "/meeting-room/static/js/main.8adaf7a6.chunk.js",
+    "main.js.map": "/meeting-room/static/js/main.8adaf7a6.chunk.js.map",
+    "runtime-main.js": "/meeting-room/static/js/runtime-main.624c3b6e.js",
+    "runtime-main.js.map": "/meeting-room/static/js/runtime-main.624c3b6e.js.map",
+    "static/js/2.621178bd.chunk.js": "/meeting-room/static/js/2.621178bd.chunk.js",
+    "static/js/2.621178bd.chunk.js.map": "/meeting-room/static/js/2.621178bd.chunk.js.map",
+    "static/js/3.feb5ed3b.chunk.js": "/meeting-room/static/js/3.feb5ed3b.chunk.js",
+    "static/js/3.feb5ed3b.chunk.js.map": "/meeting-room/static/js/3.feb5ed3b.chunk.js.map",
+    "index.html": "/meeting-room/index.html",
+    "static/css/main.62939586.chunk.css.map": "/meeting-room/static/css/main.62939586.chunk.css.map",
+    "static/js/2.621178bd.chunk.js.LICENSE.txt": "/meeting-room/static/js/2.621178bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.624c3b6e.js",
+    "static/js/2.621178bd.chunk.js",
+    "static/css/main.62939586.chunk.css",
+    "static/js/main.8adaf7a6.chunk.js"
+  ]
+}
